@@ -25,6 +25,7 @@ namespace OppFI_Task.StepDefinitions
             BaseLoanRequest createReaquest = table.CreateInstance<BaseLoanRequest>();
             BaseRequest = CreateRequest.CreateRequestToPost(createReaquest.socialSecurityNumber, createReaquest.stateCode, createReaquest.grossMonthlyIncome,
                 createReaquest.requestedLoanAmount, createReaquest.leadOfferId, createReaquest.email);
+            Console.WriteLine("Request ----->>>>>>>: " + BaseRequest);
         }
 
         [When(@"user send POST request to offer endpoint with valid APIkey")]

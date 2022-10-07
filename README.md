@@ -23,7 +23,7 @@ EncryptionUtilities folder has EncryptionHelper class that contains methods to e
 CreateLoanRequest class creates quote requests with several different payload types.
 
 ## test.runsettings:
-It is present at the project level folder. It contains all the information about the environment and parameters that will be used during the run. The file should be selected under Test>ConfigureRunSettings>test.runsettings file
+It is present at the project level folder. It contains all the information about the environment and parameters that will be used during the run. The file should be selected under Tesi-->ConfigureRunSettings--->test.runsettings file
 
 ![image](https://user-images.githubusercontent.com/78940196/194466383-fc201298-f5b2-45ff-ab75-b5bbbea7743e.png)
 

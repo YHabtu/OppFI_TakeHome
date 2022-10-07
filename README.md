@@ -23,6 +23,10 @@ CreateLoanRequest class creates quote requests with several different payload ty
 #Test.Runsettings:
 It is present at the project level folder. It contains all the information about the environment and parameters that will be used during the run. The file should be selected under Test>ConfigureRunSettings>test.runsettings file
 
+![image](https://user-images.githubusercontent.com/78940196/194466383-fc201298-f5b2-45ff-ab75-b5bbbea7743e.png)
+
+
+
 #How to Run the test cases:
  1. First thing to run the application is to insert the Encryption key to decrypt API Key which will be sent with the project.
  1. Build the solution. Make sure the build is successful.

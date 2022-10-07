@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+	<!-- Parameters used by tests at runtime -->
+	<TestRunParameters>
+		<Parameter name="Environment" value="qa1" />
+		<Parameter name="EncryptionKey" value="aiywJA33iRK1cTBlgCwa+nf8HxqDjpdedcwZBe7cfDE=" />
+		<Parameter name="APIKey" value="M0xrtbzGLnRtyxLFWByChhkDV6SxE3QT7FK2KndQWgEZ78hESHWqQww+eICKw0KtlozFX7R3LQdLDRoKS7zeIu7Ix93RCzYz7Xi4Ws49eck=" />
+		<Parameter name="TargetURL" value="https://partner-test.opploans.com/api/lde/v4" />
+	</TestRunParameters>
+</RunSettings>

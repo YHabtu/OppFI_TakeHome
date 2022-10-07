@@ -22,7 +22,7 @@ This has all the helper methods that are used throughout the project. It contain
 EncryptionUtilities folder has EncryptionHelper class that contains methods to encrypt and decrypt data. It used to encrypt sensitive information to avoid pushing credentials to repo in plain text leaving it vulnerable.
 CreateLoanRequest class creates quote requests with several different payload types.
 
-## Test.Runsettings:
+## test.runsettings:
 It is present at the project level folder. It contains all the information about the environment and parameters that will be used during the run. The file should be selected under Test>ConfigureRunSettings>test.runsettings file
 
 ![image](https://user-images.githubusercontent.com/78940196/194466383-fc201298-f5b2-45ff-ab75-b5bbbea7743e.png)
